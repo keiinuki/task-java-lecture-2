@@ -19,9 +19,7 @@
  https://github.com/keiinuki/task-java-lecture-2/blob/11698f8eed85e2f2cc7c795a7a5cf58be80c3bd5/src/task/Main.java#L24-L43
 
 ### if文での条件分岐
- Main.java
- 
- 49行目から57行目
+ https://github.com/keiinuki/task-java-lecture-2/blob/f2308693ed256db8912ed1f8bfab83d7b1bc47f9/src/task/Main.java#L47-L57
  
 ### for文とif文の組み合わせ
  Main.java
