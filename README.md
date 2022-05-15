@@ -13,9 +13,7 @@
  https://github.com/keiinuki/task-java-lecture-2/blob/86e33a0e42046ffd5abd142d55f8690bd69cef60/src/task/Main.java#L8-L15
  
 ### setterでの値の書き換え
- Main.java
- 
- 19，20行目
+ https://github.com/keiinuki/task-java-lecture-2/blob/8d004f8b4e16042b910d84f18dcdbebe459bfe9d/src/task/Main.java#L19-L20
  
 ### for文での繰り返し処理
  Main.java
