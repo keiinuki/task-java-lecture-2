@@ -10,8 +10,6 @@
  getterとsetterの設定
   
 ### getterでの値の取得
- Main.java
- 
  https://github.com/keiinuki/task-java-lecture-2/blob/86e33a0e42046ffd5abd142d55f8690bd69cef60/src/task/Main.java#L8-L15
  
 ### setterでの値の書き換え
