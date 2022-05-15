@@ -3,13 +3,9 @@
 ## 第二回講義の課題（クラスの作成　for文とif文）
 
 ### Toolクラスの作成
- Tool.java
-  
- 名前（String）、用途（String）、数量（int）の設定
+   
+ 名前（String）、用途（String）、数量（int）の設定、getterとsetterの設定
  
- getterとsetterの設定
- 
- https://github.com/keiinuki/task-java-lecture-2/blob/main/src/task/Tool.java
  https://github.com/keiinuki/task-java-lecture-2/blob/315707ae76bdb6d728748f6b201dee157e7573c5/src/task/Tool.java#L3-L39
   
 ### getterでの値の取得
