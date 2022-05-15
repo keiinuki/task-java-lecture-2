@@ -55,15 +55,15 @@ public class Main {
 		} else {
 			System.out.println(tool9.getName() + "は取り扱ってません。");
 		}
-		
+
 		System.out.println("\n");
-		
+
 		for (Tool tool : toolList) {
-			if (tool.getQuantity() == 500){
+			if (tool.getQuantity() == 500) {
 				System.out.println(tool.getName() + "は500個在庫があります。\n");
-			} else if (tool.getQuantity() > 200){
+			} else if (tool.getQuantity() > 500) {
 				System.out.println(tool.getName() + "は500個より多くの在庫があります。\n");
-			}else if(tool.getQuantity() < 500){
+			} else if (tool.getQuantity() < 500) {
 				System.out.println(tool.getName() + "は500個揃いません。\n");
 			}
 		}
