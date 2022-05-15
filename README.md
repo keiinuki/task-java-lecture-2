@@ -8,6 +8,8 @@
  名前（String）、用途（String）、数量（int）の設定
  
  getterとsetterの設定
+ 
+ https://github.com/keiinuki/task-java-lecture-2/blob/main/src/task/Tool.java
   
 ### getterでの値の取得
  https://github.com/keiinuki/task-java-lecture-2/blob/86e33a0e42046ffd5abd142d55f8690bd69cef60/src/task/Main.java#L8-L15
