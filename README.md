@@ -16,9 +16,7 @@
  https://github.com/keiinuki/task-java-lecture-2/blob/8d004f8b4e16042b910d84f18dcdbebe459bfe9d/src/task/Main.java#L19-L20
  
 ### for文での繰り返し処理
- Main.java
- 
- 24行目から41行目
+ https://github.com/keiinuki/task-java-lecture-2/blob/11698f8eed85e2f2cc7c795a7a5cf58be80c3bd5/src/task/Main.java#L24-L43
 
 ### if文での条件分岐
  Main.java
