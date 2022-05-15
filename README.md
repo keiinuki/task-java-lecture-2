@@ -21,4 +21,4 @@
  https://github.com/keiinuki/task-java-lecture-2/blob/f2308693ed256db8912ed1f8bfab83d7b1bc47f9/src/task/Main.java#L47-L57
  
 ### for文とif文の組み合わせ
- https://github.com/keiinuki/task-java-lecture-2/blob/a06eba7e17ecc7d8f62d28be6315eec287b6bf36/src/task/Main.java#L61-L69
+ https://github.com/keiinuki/task-java-lecture-2/blob/1ef2a4bcca72074cd44af5de15a7007328be6876/src/task/Main.java#L61-L69
