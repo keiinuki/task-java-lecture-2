@@ -10,6 +10,7 @@
  getterとsetterの設定
  
  https://github.com/keiinuki/task-java-lecture-2/blob/main/src/task/Tool.java
+ https://github.com/keiinuki/task-java-lecture-2/blob/315707ae76bdb6d728748f6b201dee157e7573c5/src/task/Tool.java#L3-L39
   
 ### getterでの値の取得
  https://github.com/keiinuki/task-java-lecture-2/blob/86e33a0e42046ffd5abd142d55f8690bd69cef60/src/task/Main.java#L8-L15
